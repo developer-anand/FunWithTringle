@@ -1,0 +1,39 @@
+/* *{
+    font-size: large;
+    font-weight: 300;
+}
+
+.question-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+*{
+
+} */
+
+/* body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}  */
+
+nav{
+    display: flex;
+    height: 80px;
+    align-items: center;
+    background-color: bisque;
+    box-shadow: azure;
+}
+
+nav a{
+    text-decoration: none;
+    font-size: large;
+    padding: 2rem;
+    margin: 1rem;
+ 
+}

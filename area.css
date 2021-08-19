@@ -1,0 +1,52 @@
+
+
+label{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+} 
+
+nav{
+    display: flex;
+    height: 80px;
+    align-items: center;
+    background-color: bisque;
+    box-shadow: azure;
+}
+
+nav a{
+    text-decoration: none;
+    font-size: large;
+    padding: 2rem;
+    margin: 1rem;
+ 
+}
+
+
+button{
+    height:35px; 
+    width:100px; 
+    margin: -20px -50px; 
+    position:relative;
+    top:50%; 
+    left:50%;
+}
+
+button{
+    margin-top: 30px;
+}
+
+#output{
+    height:35px; 
+    width:100px; 
+    margin: -20px -50px; 
+    position:relative;
+    top:50%; 
+    left:50%;
+}
+
+#output{
+    margin-top: 30px;
+    color: red;
+}

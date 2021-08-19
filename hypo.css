@@ -1,0 +1,35 @@
+body{
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+/* /* label{
+    padding: 4px;
+    margin-bottom: 8px;
+} */
+/* input{
+    padding: 4px;
+    margin-bottom: 8px;
+    margin-top: 8px;
+} */
+
+
+
+nav{
+    display: flex;
+    height: 80px;
+    align-items: center;
+    background-color: bisque;
+    box-shadow: azure;
+}
+
+nav a{
+    text-decoration: none;
+    font-size: large;
+    padding: 2rem;
+    margin: 1rem;
+ 
+}
